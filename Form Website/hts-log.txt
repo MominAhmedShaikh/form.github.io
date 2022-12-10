@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Sat, 10 Dec 2022 12:17:34 at http://https://form-site-1f26b5.webflow.io/success +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://https://form-site-1f26b5.webflow.io/success -O "/Users/momin/websites/Form Website" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:17:37	Error: 	"Bad Gateway" (502) after 2 retries at link https://form-site-1f26b5.webflow.io/robots.txt (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 9 links scanned, 8 files written (788536 bytes overall) [215445 bytes received at 21544 bytes/sec], 760112 bytes transferred using HTTP compression in 4 files, ratio 23%, 2.2 requests per connection
+(1 errors, 0 warnings, 0 messages)
